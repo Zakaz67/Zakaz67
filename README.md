@@ -1,16 +1,21 @@
-## Hi there 👋
+# Zakaz67 — самостоятельное изучение Python
 
-<!--
-**Zakaz67/Zakaz67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Этот репозиторий — мой личный архив обучения по книге Эрика Мэтиза **«Изучаем Python»** (*Python Crash Course*).
 
-Here are some ideas to get you started:
+Здесь я самостоятельно решаю упражнения, записываю условия, объясняю код своими словами и веду конспекты. Готовые решения ИИ не использую: цель — научиться разбираться самому.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Структура
+
+- **[solutions/](solutions/)** — мои решения упражнений.
+- **[tasks/](tasks/)** — условия задач из книги.
+- **[thoughts/](thoughts/)** — личные мысли, вопросы и выводы после занятий.
+- **[code_explanations/](code_explanations/)** — объяснения моего кода своими словами.
+- **[notes/](notes/)** — конспекты глав и полезные заметки.
+
+## Где я остановился
+
+- **Книга:** «Изучаем Python» — Эрик Мэтиз.
+- **Страница:** 129.
+- **Последнее упражнение:** 7-4 — «Дополнения для пиццы».
+
+Подробная отметка о прогрессе: [notes/book_progress.md](notes/book_progress.md).
