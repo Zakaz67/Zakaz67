@@ -12,3 +12,8 @@
 
 Сегодня разобрался с Git.
 Научился делать commit и push.
+так важная хрен
+git status
+git add .
+git commit -m "Описание изменений"
+git push
