@@ -18,5 +18,3 @@ git add .
 git commit -m "Описание изменений"
 git push
 просто охует сам сделал это пизда 
-прпррппррпрппр
-gghghghhghghghg
